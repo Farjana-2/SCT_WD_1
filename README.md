@@ -6,7 +6,7 @@ Built using HTML and CSS – fully responsive landing page.
 ## Folder Contents
 - `index.html`  
 - `style.css`  
-- Image assets  
+- `script.js`  
 
 ## Created by
 Shaik Farjana
